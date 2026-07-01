@@ -3,9 +3,11 @@ CPU (Processor)
 *What a CPU does?
 - CPU is the brain of the computer, it processes set of instructions to run software programs.
 *Cores and threads?
-- 
+- Cores are the physical processing units in CPU that handles set of instructions when running
+a program while the Threads are just logical processor that helps each core to do multitasking 
+but it is not faster compared to adding additional physical core.
 *Clock speed (GHz)?
--
+- 
 
 Examples:
  *Intel Core i5
